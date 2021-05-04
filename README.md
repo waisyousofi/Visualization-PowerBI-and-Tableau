@@ -1,4 +1,4 @@
-# Visualization-Using-Tableau
+# Interctive Visualization-Using-Tableau
 
 Project overview
 
